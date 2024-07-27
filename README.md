@@ -16,28 +16,55 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Morena Dlamini
+- **Date:** 2024-07-27
+- **Current Role/Position:** Lead Software Specialist 
+- **Field of Interest:** Full Stack developer 
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Planning and implementing IT projects
+    - Vendor management and procurement
+    - System design and architecture principles
+    - Teamwork and collaboration in a development environment
+    - Database management
+    - Encryption, VPNs, and firewalls
+    
+    **Improvement on Skills**
+
+    - API design and integration
+    - Knowledge of development frameworks and libraries
+    - Unit and integration testing
+    
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Enjoyment in tackling complex technical challenges and finding efficient solutions.
+    - Commitment to continuous learning, acquiring new skills, and professional growth.
+    - Interest in data-driven decision-making and leveraging analytics for business insights.
+
+    **Values**
+    
+    - An environment that fosters creativity and innovation, allowing for experimentation and new ideas.
+    - Opportunities for continuous learning and career advancement.
+    - Flexible work arrangements, including remote work options and flexible hours.
+
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - UI/UX Designer
+    - Front-end Development 
+    - Back-end Development
+    - Full Stack Development 
+    - DevOps Engineer 
+
+    - Fascination with server-side programming and database management.
+    - Passion for automating deployment processes using CI/CD pipelines.
+    - Experience in database schema design and optimization.
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
@@ -47,8 +74,14 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Goal: Achieve Azure Developer Certification (6 months)
+    - This certification validates skills in developing solutions on Microsoft Azure, a popular cloud platform.
+
+    - Goal: Achieve AWS Developer Certification (6 months)
+    - this certification demonstrates expertise in deploying and maintaining applications on AWS.
+
+    - Goal: Learn More About Full Stack Development (12 months)
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
@@ -58,8 +91,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Allocate time each week for study, use official Microsoft learning paths, and take practice exams.
+    - Follow a structured study plan, including AWS training materials and hands-on labs.
+    - Dedicate time each week to learning new technologies and practicing through projects (Full Stack development)
+    
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
