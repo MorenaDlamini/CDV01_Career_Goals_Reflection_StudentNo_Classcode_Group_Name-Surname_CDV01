@@ -84,8 +84,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Full Stack Developer in the financial sector
+    - Keen interest in financial markets, banking, investment, and insurance.
+    - Skills that will be required, software development, database management & System Architecture
 
 ### Part 4: Action Plan
 
@@ -97,19 +98,27 @@ By completing this reflection, you will gain a clearer understanding of your car
     
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Acquire Higher Certificate in Banking Services and Higher certification in data analytics 
+    - Experience required for job role 3 - 6 years 
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    **Challenges**
+
+    - Funding
+    - balancing work and school 
+
+    **How to overcome these challenges**
+
+    - Acquire funding from emploer 
+    - Have a timetable to balance out everything 
+    
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Online schooling and projects at work 
+    - Networking with like minded individuals 
 
 ### Submission
 
